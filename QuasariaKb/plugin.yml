@@ -1,0 +1,5 @@
+name: QuasariaKb
+version: 0.1
+main: QuasariaKb\Moadassam\QuasariaKb
+api: 3.0.0
+author: Moadassam
